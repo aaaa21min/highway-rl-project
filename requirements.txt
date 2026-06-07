@@ -1,0 +1,5 @@
+gymnasium
+highway-env
+stable-baselines3[extra]
+matplotlib
+numpy
